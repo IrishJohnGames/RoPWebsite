@@ -187,6 +187,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
+		
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -196,6 +197,8 @@ input, select, textarea {
 
 	h1 {
 		font-size: 3.5em;
+		font-family:Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 600;
 	}
 
 	h2 {
@@ -203,7 +206,10 @@ input, select, textarea {
 	}
 
 	h3 {
+		font-family:Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 600;
 		font-size: 1.35em;
+		
 	}
 
 	h4 {
@@ -230,6 +236,7 @@ input, select, textarea {
 
 		h3 {
 			font-size: 1.25em;
+			
 		}
 
 	}
@@ -1772,6 +1779,7 @@ input, select, textarea {
 	}
 
 	header.major {
+		
 		width: -moz-max-content;
 		width: -webkit-max-content;
 		width: -ms-max-content;
@@ -1794,6 +1802,7 @@ input, select, textarea {
 			}
 
 		header.major > p {
+			
 			font-size: 0.7em;
 			font-weight: 600;
 			letter-spacing: 0.25em;
@@ -2767,7 +2776,12 @@ input, select, textarea {
 			}
 
 			.tiles article h3 {
+				font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+				font-weight: 600;
+				
 				font-size: 1.75em;
+				
+				
 			}
 
 				.tiles article h3 a:hover {
@@ -2775,6 +2789,7 @@ input, select, textarea {
 				}
 
 			.tiles article .link.primary {
+				
 				border: 0;
 				height: 100%;
 				left: 0;
